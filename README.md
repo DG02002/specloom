@@ -8,18 +8,18 @@ Specloom is an ultra-flat, Markdown-only project with:
 
 ## How To Use
 
-1. Open `generator-prompt.md`.
+1. Open [generator-prompt.md](https://github.com/DG02002/specloom/blob/main/generator-prompt.md).
 2. Paste it into your preferred AI model.
 3. Provide your project context.
 4. Save the output as `AGENTS.md` in your target repository.
 
 ## How To Maintain
 
-1. Open `generator.md` to confirm source-of-truth policy.
-2. Open `maintenance-prompt.md`.
-3. Provide current `generator-prompt.md`, current `generator.md`, and new references/notes.
-4. Use the returned updated prompt text to replace `generator-prompt.md`.
-5. Run the validation checklist in `generator-prompt.md`.
+1. Open [generator.md](https://github.com/DG02002/specloom/blob/main/generator.md) to confirm source-of-truth policy.
+2. Open [maintenance-prompt.md](https://github.com/DG02002/specloom/blob/main/maintenance-prompt.md).
+3. Provide current [generator-prompt.md](https://github.com/DG02002/specloom/blob/main/generator-prompt.md), current [generator.md](https://github.com/DG02002/specloom/blob/main/generator.md), and new references/notes.
+4. Use the returned updated prompt text to replace [generator-prompt.md](https://github.com/DG02002/specloom/blob/main/generator-prompt.md).
+5. Run the validation checklist in [generator-prompt.md](https://github.com/DG02002/specloom/blob/main/generator-prompt.md).
 6. Use Git commit history as the only change log.
 
 ## Scope
